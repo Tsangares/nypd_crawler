@@ -8,7 +8,7 @@ install dependencies:
 
 Simply run
 
-   python crawl_nyc.py
+    python crawl_nyc.py
    
 From terminal
 
